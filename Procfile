@@ -1,1 +1,1 @@
-"web: python bot_settings.py" 
+web: python bot_settings.py
