@@ -1,5 +1,5 @@
 import requests 
-from getting_rss import random_links
+from news_parser import random_links
 from time import sleep
 
 TOKEN = '309376826:AAGHmxKMDQUEJVt1QlWuk57H1g8O0G_wPEc'
