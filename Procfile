@@ -1,1 +1,1 @@
-web: python bot_settings.py
+bot: python bot_settings.py $PORT
